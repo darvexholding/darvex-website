@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://darvexholding.com/sitemap.xml
