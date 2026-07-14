@@ -1,0 +1,1 @@
+@media(max-width:900px){.menu-toggle{display:block}.main-nav{display:none;position:absolute;top:76px;left:16px;right:16px;flex-direction:column;background:#111416;padding:18px;border:1px solid rgba(255,255,255,.1);border-radius:14px}.main-nav.open{display:flex}.hero{grid-template-columns:1fr;padding-top:72px}.grid{grid-template-columns:1fr}}
